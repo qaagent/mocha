@@ -1,0 +1,6 @@
+{ 
+	"elementSearchTimeOut": 50000,
+	"annotate": true,
+	"delayBeforeCommandExecution": 10,
+	"delayBeforeExecution": 50,
+	"closeOnComplete": true    

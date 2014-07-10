@@ -1,0 +1,10 @@
+{
+  "name": "qa-agent-mocha",
+  "description": "Run UI tests with mocha",
+  "author": "QA Agent",
+  "version": "0.0.1",
+  "dependencies": {
+    "chai": "1.6.0",
+    "mocha": "1.12.0"
+  }
+}
